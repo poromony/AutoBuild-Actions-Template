@@ -4,7 +4,7 @@
 #   Author: Hyy2001X                                      #
 ###########################################################
 
-name: x86_64
+name: x86_64_KANG
 
 on:
   repository_dispatch:
